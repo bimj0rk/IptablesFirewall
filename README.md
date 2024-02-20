@@ -1,4 +1,4 @@
-# IptablesFirewall
+# Iptables Firewall (Computer Networks project, Year III)
 A firewall made using Kali Linux and Iptables with a test attack
 
 The app is specifially designed for Linux users with Iptables and UFW installed and running. To launch it, run the script file in the terminal of the Operating System. 
