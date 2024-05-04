@@ -6,7 +6,7 @@ The app is specifially designed for Linux users with Iptables and UFW installed 
 ### Features
 The main features of the firewall are as follows:
   * blocks incoming packets that enter from an external machine that claims to be inside the network. The attacker usually uses a specific port (usually eth0), and this can be used to our advantage.
-  * drops every package that has a SYNCHRONIZED (SYN) flag
+  * drops every packet that has a SYNCHRONIZED (SYN) flag
   * limits the number a fragments a packet can be divided into
 
 ### User interface
